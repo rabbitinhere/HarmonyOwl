@@ -3,4 +3,4 @@ HarmonyOwl  is a Harmony roadmap project that provides reliable guidance for dev
 
 ## [鸿蒙的能力与职业认证](https://developer.huawei.com/consumer/cn/training/dev-certification/a617e0d3bc144624864a04edb951f6c4)
 
-[Inner Doc](https://github.com/rabbitinhere/HarmonyOwl/blob/main/TestDir/Inner.md)
+[Inner Doc](/TestDir/Inner.md)
