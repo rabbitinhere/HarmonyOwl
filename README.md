@@ -12,7 +12,7 @@
 
 [鸿蒙的能力与职业认证](https://developer.huawei.com/consumer/cn/training/dev-certification/a617e0d3bc144624864a04edb951f6c4)
 
-## 华为官方链接
+### 华为官方链接
 
 [官方论坛](https://developer.huawei.com/consumer/cn/forum/)
 
