@@ -35,6 +35,8 @@
 
 #### 屏幕适配单位，参考官方提供的[链接](https://developer.harmonyos.com/cn/docs/design/des-guides/basic-0000001055539104)
 
+#### Web组件和前端页面加载
+
 ### 开发工具
 
 [常用HDC命令](/DOC/hdc.md)
