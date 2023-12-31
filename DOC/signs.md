@@ -19,7 +19,7 @@
 5. 在华为AppGallery Connect 的用户与访问-我的项目-HarmonyOS应用-"HAP Provision Profile"管理里添加一个Profile，要选择刚刚的调试设备，下载p7b文件存好
 6. 回到IDE里-File-"Project Structure-Signing Configs"添加正确的签名文件路径和信息就好了
 
-### 2.用发布签名安装
+### 3.用发布签名安装
 
 步骤和“2.用调试签名”一样，只不过cer和p7b需要选择发布类型。但是不要用发布的签名直接本地生成app给设备安装，否则会提示：`Install Failed: [Info]App install path:D:\RABBIT\LocalCode\Harmony\WebComponent\entry\build\default\outputs\default\entry-default-signed.hap, queuesize:0, msg:error: failed to install bundle. error: signature verification failed due to not trusted app source.`
 
