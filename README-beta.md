@@ -1,5 +1,5 @@
 # HarmonyOwl
-![image info](/Logo/Logo_64x64.png)  
+![image info](/Images/Logo/Logo_64x64.png)  
 
 一个鸿蒙路书项目，提供靠谱、易懂、诚实的开发指导😉 **项目进度1% 欢迎帮助建设本项目**
 
