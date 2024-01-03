@@ -7,6 +7,8 @@
 
 未来规划的文档草稿在[这里](/README-beta.md)
 
+笔者：十年以上经验的Android开发
+
 ### 华为官方链接
 
 [官方论坛](https://developer.huawei.com/consumer/cn/forum/)
