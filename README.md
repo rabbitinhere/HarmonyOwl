@@ -78,6 +78,8 @@
 
 #### 音视频通话
 
-前提：首先需要了解一下[音视频通讯的各种概念和关系](/DOC/音视频通讯的各种概念和关系.md)
+官方没提供音视频通话方案。
 
 [外链：官方的指南：开发音频通话功能](https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/audio-call-development-0000001455598596-V3)只写了把文件的音频用AudioRenderer播放出来，再用AudioCapturer把麦克风的音频写入文件里，没写怎么**网络传输**
+
+可以了解一下[音视频通讯的各种概念和关系](/DOC/音视频通讯的各种概念和关系.md)
