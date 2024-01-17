@@ -5,8 +5,6 @@
 
 原则：本Readme对官方比较完善的知识不重复复制，重点在**官方文档没说但又经常使用的内容**，同时用**链接整合**快速引导开发者。
 
-笔者：十年以上Android开发经验
-
 ### 华为官方链接
 
 [外链：官方论坛](https://developer.huawei.com/consumer/cn/forum/)
