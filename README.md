@@ -3,7 +3,10 @@
 
 一个鸿蒙路书项目，提供靠谱、易懂、诚实的开发指导😉 **项目进度1% 欢迎帮助建设本项目**
 
-原则：本Readme对官方比较完善的知识不重复复制，重点在**官方文档没说但又经常使用的内容**，同时用**链接整合**快速引导开发者。
+原则：
+1. 用**链接整合**快速引导开发者
+2. **官方文档没说但又经常使用的内容**
+3. 所有内容均**实际验证过**
 
 ### 华为官方链接
 
@@ -61,6 +64,8 @@
 ### 存储
 
 [外链：首选项存储，相当于Android的SharedPreferences](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667367018821971)
+
+[外链：关系型数据库，依赖Sqlite](https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/data-persistence-by-rdb-store-0000001505752421-V3)
 
 ### 第三方库
 
