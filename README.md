@@ -57,6 +57,21 @@
 
 #### [外链：属性动画的使用](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667368091091005)
 
+### 异步、多线程
+
+异步并发（虚假的多线程，官方解释：代码在执行到一定程度后会被暂停，以便在未来某个时间点继续执行，这种情况下，同一时间只有一段代码在执行。）
+
+[Promise](/DOC/Promise.md)
+
+[async & await](/DOC/async_await.md)
+
+多线程并发（真正的多线程 官方解释：在同一时间段内同时执行多段代码。在主线程继续响应用户操作和更新UI的同时，后台也能执行耗时操作，从而避免应用出现卡顿。）
+
+TaskPool 敬请期待
+
+Worker 敬请期待
+
+
 ### 数据传递
 
 [外链：State、Prop、Link、Provide、Consume,Video组件、弹窗](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101680765314766141)
