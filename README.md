@@ -18,6 +18,10 @@
 
 [外链：官方API文档](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/development-intro-0000001478061813-V3)
 
+### 基础
+
+[鸿蒙的各种版本](/DOC/versions.md)
+
 ### 我是新手第一步我该看什么？
 
 可以花两周看一下官方提供的[外链：免费基础能力认证课程](https://developer.huawei.com/consumer/cn/training/dev-cert-detail/101666948302721398)
