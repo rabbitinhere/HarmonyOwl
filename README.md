@@ -40,26 +40,28 @@
 
 ### 语言
 
-[外链：TypeScript快速入门、浅析ArkTS的起源和演进、ArkTS开发实践](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667356568959645)
+[外链：TypeScript快速入门、浅析ArkTS的起源和演进、ArkTS开发实践](https://blog.csdn.net/you4580/article/details/133861569)
 
 ### UI
 
 
 #### 屏幕适配单位，参考官方提供的[外链](https://developer.harmonyos.com/cn/docs/design/des-guides/basic-0000001055539104)
 
-#### [外链：UIAbility的使用，相当于Android的Activity](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667310940295021)
+#### [外链：UIAbility的使用，相当于Android的Activity](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101717497122909477)
 
-#### [外链：Web组件的基本使用、HTTP访问网络](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667364948559963)
+#### [外链：Web组件的基本使用](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101705083116217059)
+
+#### [外链：HTTP访问网络](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101717497918284399)
 
 #### [Web组件和前端页面加载后调试](/DOC/web_view.md)
 
 #### 基础组件
 
-[外链：常用基础组件、Column&Row组件、List组件和Grid组件的使用、Tabs组件](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667360160710997)
+[外链：常用基础组件、Column&Row组件、List组件和Grid组件的使用、Tabs组件](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V2/arkts-layout-development-create-list-0000001451074018-V2)
 
 [外链：List和Grid组件的懒加载](https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/ui-ts-performance-improvement-recommendation-0000001477981001-V3#ZH-CN_TOPIC_0000001477981001__%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8%E6%95%B0%E6%8D%AE%E6%87%92%E5%8A%A0%E8%BD%BD)
 
-#### [外链：属性动画的使用](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667368091091005)
+#### [外链：动画的使用](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101705081897917056)
 
 ### 异步、多线程
 
@@ -78,25 +80,25 @@ Worker 敬请期待
 
 ### 数据传递
 
-[外链：State、Prop、Link、Provide、Consume,Video组件、弹窗](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101680765314766141)
+[外链：State、Prop、Link、Provide、Consume,Video组件、弹窗](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-state-V5)
 
 ### 存储
 
-[外链：首选项存储，相当于Android的SharedPreferences](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667367018821971)
+[外链：首选项存储，相当于Android的SharedPreferences](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101717498132814493)
 
-[外链：关系型数据库，依赖Sqlite](https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/data-persistence-by-rdb-store-0000001505752421-V3)
+[外链：关系型数据库，依赖Sqlite](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/data-persistence-by-rdb-store-V5)
 
 ### 第三方库
 
-[外链：三方库的基本使用](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101667369405083047)
+[外链：三方库的基本使用](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101705085912853376)
 
 ### 开发工具
 
 [常用HDC命令](/DOC/hdc.md)
 
-[外链：DevEco Studio使用技巧](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101680766639443507)
+[外链：DevEco Studio使用技巧](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101717494752698457)
 
-[外链：DevEco Studio预览器的使用](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101680766639443507)
+[外链：DevEco Studio预览器的使用](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101717494752698457)
 
 ### 音视频
 
@@ -104,6 +106,6 @@ Worker 敬请期待
 
 官方没提供音视频通话方案
 
-[外链：官方的指南：开发音频通话功能](https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/audio-call-development-0000001455598596-V3)只写了把文件的音频用AudioRenderer播放出来，再用AudioCapturer把麦克风的音频写入文件里，没写怎么**网络传输**
+[外链：官方的指南：开发音频通话功能](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-call-development-V5)只写了把文件的音频用AudioRenderer播放出来，再用AudioCapturer把麦克风的音频写入文件里，没写怎么**网络传输**
 
 可以了解一下[音视频通讯的各种概念和关系](/DOC/音视频通讯的各种概念和关系.md)
