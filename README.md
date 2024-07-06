@@ -42,6 +42,8 @@
 
 [外链：TypeScript快速入门、浅析ArkTS的起源和演进、ArkTS开发实践](https://blog.csdn.net/you4580/article/details/133861569)
 
+[外链：仓颉](https://developer.huawei.com/consumer/cn/forum/topic/0207154349937192038?fid=0109140870620153026)
+
 ### UI
 
 
