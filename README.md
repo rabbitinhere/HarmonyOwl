@@ -24,7 +24,7 @@
 
 ### 我是新手第一步我该看什么？
 
-可以花两周看一下官方提供的[外链：免费基础能力认证课程](https://developer.huawei.com/consumer/cn/training/dev-cert-detail/101666948302721398)
+可以花两周看一下官方提供的[外链：免费基础能力认证课程](https://developer.huawei.com/consumer/cn/training/result?type1=101718934267126043)
 
 这个课程是视频+文档+demo的形式，对鸿蒙有个了解够用了，看完可以拿一个免费的能力证书。
 如果你对Android开发有了解，学习有加成，因为你可以发现很多内容能在Android中找到一一对应关系。
