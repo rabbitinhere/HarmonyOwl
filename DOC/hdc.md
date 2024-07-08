@@ -15,5 +15,17 @@ https://gitee.com/openharmony/developtools_hdc_standard#section161941989591
 ## 常用的HDC命令
 
 ### 安装
-
 hdc install -r xxx.hap
+
+### 查看连接设备
+hdc list targets
+
+### 卸载应用
+hdc app uninstall com.rabbit.demo【替换成你的包名】
+
+### 输出实时日志
+hdc hilog
+
+### 进入Shell
+HdcExternal shell
+*不要用hdc shell，否则会报错：ERR:ohsh para too less!*
